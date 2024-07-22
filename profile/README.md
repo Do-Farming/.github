@@ -1,7 +1,8 @@
 # Do-Farming
 [디지털 하나로 금융 서비스 개발 2기] - 2차 프로젝트
 
-![poster](https://github.com/soyeonvv/BankAI-Backend/assets/68561229/8f6ef8c0-43f2-4463-9796-0b0bc14cf5d6)
+<img width="2560" alt="스크린샷 2024-07-23 오전 2 04 30" src="https://github.com/user-attachments/assets/57b1edc1-d489-4a1a-be6b-74d9f702558d">
+
 > Do-Farming 서비스는 MZ세대를 위한 모바일 뱅킹 서비스입니다.
 > 지인 또는 같은 목표를 지닌 사람끼리 챌린징을 통한 우대 이율경쟁을 벌일 수 있는 서비스 입니다.
 
