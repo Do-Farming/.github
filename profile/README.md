@@ -38,7 +38,7 @@
 ### ➋ 이상형 월드컵
 | 취향 이상형 월드컵 | 카드 이상형 월드컵 |
 |--------------------------------------------------|--------------------------------------------------|
-| <img src="https://github.com/user-attachments/assets/c9284439-f25d-4d83-8378-c4ab6ddb19a9" width="240" height="520"> | <img src="htttps://github.com/user-attachments/assets/ce48846e-3a1b-4817-be64-48c4c52f5317" width="240" height="520"> |
+| <img src="https://github.com/user-attachments/assets/c9284439-f25d-4d83-8378-c4ab6ddb19a9" width="240" height="520"> | <img src="https://github.com/user-attachments/assets/ce48846e-3a1b-4817-be64-48c4c52f5317" width="240" height="520"> |
 | ✔️ 8강으로 진행되는 취향 이상형 월드컵을 진행하여 우승한 취향과 관련된 혜택이 가장 큰 신용카드를 추천합니다.<br/>✔️ AI를 활용하여 카드의 이미지를 직접 생성할 수 있습니다.  | ✔️ 32강으로 진행되는 카드 이상형 월드컵을 진행합니다.<br/>✔️ AI를 활용하여 카드의 이미지를 직접 생성할 수 있습니다. |
 <br/>
 
