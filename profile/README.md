@@ -120,7 +120,7 @@
     </tr>
     <tr align="center">
         <td><B>강민주</B></td>
-        <td><B>김민표</B></td>
+        <td><B>[팀장] 김민표</B></td>
         <td><B>변정흠</B></td>
         <td><B>양채연</B></td>
         <td><B>임은상</B></td>
